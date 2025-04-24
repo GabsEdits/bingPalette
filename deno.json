@@ -1,3 +1,6 @@
 {
+    "tasks": {
+        "generate": "deno run -RWN --allow-env --allow-ffi --unstable-node-globals mod.ts"
+    },
     "nodeModulesDir": "auto"
 }
