@@ -25,7 +25,7 @@ There are only 2 real requirements:
 You clone the repository and run the script with Deno:
 
 ```sh
-deno run -A --unstable-node-globals mod.ts
+deno task generate
 ```
 
 For now, it can set the background desktop image only for macos, as I haven't optimized
